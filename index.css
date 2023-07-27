@@ -1,0 +1,38 @@
+.list{
+    padding: 20px;
+    background-color: crimson;
+    margin-top: 10px;
+}
+
+span{
+    float: right;
+}
+
+strong{
+    color: white;
+    margin-top: 3px;
+    top: 0;
+}
+.nav{
+    width: 100%;
+    background-color: yellowgreen;
+    height: 60px;
+}
+
+input{
+    background: none;
+}
+
+
+input:focus{
+    outline-width: 0;
+}
+
+#todo-in{
+    width: 300px;
+
+}
+
+#todo-in:focus{
+    width: 500px;
+}
